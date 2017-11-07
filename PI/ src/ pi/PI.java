@@ -37,7 +37,7 @@ public class PI {
             System.out.println(adentro);
         }
         pi = (4 * adentro) / ejecutados;
-//        System.out.println("p/4 = " + success / ejecutados);
+//  
 
         if (piv - pi <= 0.01) {
             JOptionPane.showMessageDialog(null, "Probable " + "PI: " + piv + " PI estimado: " + pi + "\n" + "Al restar PI real - PI Estimado:" + (piv - pi));
