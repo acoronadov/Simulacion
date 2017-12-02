@@ -1,0 +1,24 @@
+[RESOURCES]
+hizqtrafic
+htrafic
+vtrafic
+varrtrafic
+[VARIABLES]
+Horizontal Derecha.NumberOut
+Finaliza recorrido Izq.NumberOut
+horizontal light.NumberIn
+horizontal light.NumberOut
+vertical light.NumberIn
+vertical light.NumberOut
+Finaliza recorrido vertical arriba.NumberOut
+Create 6.NumberOut
+Create 5.NumberOut
+horizontal izq light.NumberIn
+Finaliza recorrido Ver abajo.NumberOut
+Horizontal Izquierda.NumberOut
+Finaliza recorrido.NumberOut
+vertical arriba light.NumberOut
+vertical arriba light.NumberIn
+Vertical abajo.NumberOut
+Vertical arriba.NumberOut
+horizontal izq light.NumberOut
